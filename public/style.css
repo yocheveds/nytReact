@@ -1,0 +1,20 @@
+body{
+  background-image: url("https://wallpaperscraft.com/image/newspaper_ball_glass_silver_black_white_4338_1920x1080.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+navbar{
+  background-color: #511706;
+  color: green;
+  /*padding: 50px, 20px 50px, 20p;*/
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: cursive, sans-serif;
+  margin-bottom: 600px;
+}
+
+/*h1{
+  font-weight: bold;
+  color: #444700;
+}*/
